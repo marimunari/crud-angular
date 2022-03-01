@@ -1,4 +1,4 @@
-# CRUD MOVIES :movie_camera::heart:
+# MOVIE MANAGER :movie_camera::heart:
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
 
